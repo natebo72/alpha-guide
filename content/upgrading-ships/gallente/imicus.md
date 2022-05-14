@@ -18,7 +18,7 @@
     1MN Afterburner I
 
     Warp Core Stabilizer I
-    Warp Core Stabilizer I
+    Warp Core Stabilizer I (as of 2022-05-14 you can only mount one of these)
 
     Small Gravity Capacitor Upgrade I
     Small Gravity Capacitor Upgrade I
